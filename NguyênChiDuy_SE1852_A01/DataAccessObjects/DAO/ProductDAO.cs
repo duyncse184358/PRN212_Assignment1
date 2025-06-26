@@ -9,7 +9,7 @@ namespace DataAccessObjects.DAO
     {
         private static List<Product> productList = new();
 
-        // Static constructor để tạo dữ liệu mẫu
+        
         static ProductDAO()
         {
             productList.Add(new Product { ProductID = 1, ProductName = "Laptop XPS 15", CategoryID = 1, UnitPrice = 1500.00M, UnitsInStock = 50 });

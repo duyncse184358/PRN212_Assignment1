@@ -39,17 +39,17 @@ namespace NguyênChiDuyWPF.ViewModels
 
         private void Logout()
         {
-            // Đóng tất cả các cửa sổ đang mở (trừ cửa sổ login) trước khi mở lại LoginWindow
-            foreach (Window window in Application.Current.Windows.OfType<Window>().ToList()) // ToList để tránh lỗi khi sửa đổi collection trong vòng lặp
+            
+            foreach (Window window in Application.Current.Windows.OfType<Window>().ToList()) 
             {
-                if (!(window is LoginWindow)) // Không đóng LoginWindow nếu nó là cửa sổ gốc
+                if (!(window is LoginWindow)) 
                 {
                     window.Close();
                 }
             }
 
-            AppContext.Reset(); // Reset thông tin người dùng
-            new LoginWindow().Show(); // Mở lại cửa sổ đăng nhập
+            AppContext.Reset(); 
+            new LoginWindow().Show(); 
         }
     }
 }

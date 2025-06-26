@@ -24,11 +24,11 @@ namespace NguyênChiDuyWPF.ViewModels
         {
             Orders.Clear();
 
-            // Kiểm tra ID khách hàng có hợp lệ hay không trước khi gọi service
+          
             if (AppContext.CurrentCustomerID <= 0)
             {
                 Console.WriteLine("Warning: CurrentCustomerID is not set. Cannot load orders for customer.");
-                // MessageBox.Show("Vui lòng đăng nhập với tài khoản khách hàng để xem lịch sử đơn hàng.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Warning);
+                
                 return;
             }
 

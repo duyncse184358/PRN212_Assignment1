@@ -17,7 +17,7 @@ namespace NguyênChiDuyWPF.ViewModels
 
         public ProfileViewModel()
         {
-            // Load current customer info by ID
+            
             Customer = _customerService.GetById(AppContext.CurrentCustomerID) ?? new Customer();
             SaveCommand = new RelayCommand(Save);
         }

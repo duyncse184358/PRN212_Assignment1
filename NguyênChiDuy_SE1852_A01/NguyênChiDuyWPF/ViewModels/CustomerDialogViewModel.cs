@@ -13,7 +13,7 @@ namespace NguyênChiDuyWPF.ViewModels
 
         public CustomerDialogViewModel(Customer original)
         {
-            // Tạo một bản sao để tránh chỉnh sửa trực tiếp đối tượng gốc
+           
             Customer = new Customer
             {
                 CustomerID = original.CustomerID,

@@ -8,7 +8,7 @@ namespace DataAccessObjects.DAO
     {
         private static List<Category> categoryList = new();
 
-        // Static constructor để tạo dữ liệu mẫu
+       
         static CategoryDAO()
         {
             categoryList.Add(new Category { CategoryID = 1, CategoryName = "Electronics", Description = "Devices and gadgets" });

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QGoXvHF9k/4=",
+  "dgSpecHash": "2A3Mh7gXs1Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\DataAccessObjects\\DataAccessObjects.csproj",
+  "projectFilePath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\DataAccessObjects\\DataAccessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VicTus\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.301\\microsoft.net.sdk.compilers.toolset.9.0.301.nupkg.sha512"
   ],

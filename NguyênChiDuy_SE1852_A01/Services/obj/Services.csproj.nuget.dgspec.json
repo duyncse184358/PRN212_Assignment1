@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Services\\Services.csproj": {}
+    "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\BusinessObjects.csproj": {
+    "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\VicTus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\obj\\",
+        "outputPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\DataAccessObjects\\DataAccessObjects.csproj": {
+    "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\DataAccessObjects\\DataAccessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\DataAccessObjects\\DataAccessObjects.csproj",
         "projectName": "DataAccessObjects",
-        "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\DataAccessObjects\\DataAccessObjects.csproj",
         "packagesPath": "C:\\Users\\VicTus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\DataAccessObjects\\obj\\",
+        "outputPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\DataAccessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +103,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\VicTus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -178,11 +178,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\DataAccessObjects\\DataAccessObjects.csproj": {
-                "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\DataAccessObjects\\DataAccessObjects.csproj"
+              "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\DataAccessObjects\\DataAccessObjects.csproj"
               }
             }
           }
@@ -234,14 +234,14 @@
         }
       }
     },
-    "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Services\\Services.csproj": {
+    "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\VicTus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Services\\obj\\",
+        "outputPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -262,11 +262,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Repositories\\Repositories.csproj"
+              "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Repositories\\Repositories.csproj"
               }
             }
           }

@@ -30,7 +30,7 @@ namespace NguyênChiDuyWPF.ViewModels
         {
             if (_employeeService.ValidateLogin(Username, Password))
             {
-                // Lấy thông tin chi tiết của admin để lưu vào AppContext nếu cần
+               
                 var adminUser = _employeeService.GetByUsername(Username);
                 AppContext.CurrentUserName = adminUser?.Name ?? Username;
                 AppContext.CurrentRole = "Admin";
@@ -72,7 +72,7 @@ namespace NguyênChiDuyWPF.ViewModels
 
         private void CloseLoginWindow()
         {
-            // Đóng cửa sổ LoginWindow hiện tại
+           
             Application.Current.Windows.OfType<LoginWindow>().FirstOrDefault()?.Close();
         }
     }

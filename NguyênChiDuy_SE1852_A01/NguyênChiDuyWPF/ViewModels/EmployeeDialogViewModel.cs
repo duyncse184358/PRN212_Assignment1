@@ -13,7 +13,7 @@ namespace NguyênChiDuyWPF.ViewModels
 
         public EmployeeDialogViewModel(Employee original)
         {
-            // Tạo một bản sao để tránh chỉnh sửa trực tiếp đối tượng gốc
+            
             Employee = new Employee
             {
                 EmployeeID = original.EmployeeID,

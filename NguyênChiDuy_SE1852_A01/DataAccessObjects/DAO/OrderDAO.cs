@@ -9,7 +9,7 @@ namespace DataAccessObjects.DAO
     {
         private static List<Order> orderList = new();
 
-        // Static constructor để tạo dữ liệu mẫu
+        
         static OrderDAO()
         {
             orderList.Add(new Order { OrderID = 1, CustomerID = 1, EmployeeID = 1, OrderDate = DateTime.Now.AddDays(-10) });

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sNqO2+JPM20=",
+  "dgSpecHash": "j8uLtzqBS+E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\NguyênChiDuyWPF\\NguyênChiDuyWPF.csproj",
+  "projectFilePath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\NguyênChiDuyWPF\\NguyênChiDuyWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VicTus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
     "C:\\Users\\VicTus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",

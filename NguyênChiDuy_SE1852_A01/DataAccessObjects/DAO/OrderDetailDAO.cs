@@ -8,7 +8,7 @@ namespace DataAccessObjects.DAO
     {
         private static List<OrderDetail> detailList = new();
 
-        // Static constructor để tạo dữ liệu mẫu
+        
         static OrderDetailDAO()
         {
             detailList.Add(new OrderDetail { OrderID = 1, ProductID = 1, UnitPrice = 1500, Quantity = 1, Discount = 0.0f });

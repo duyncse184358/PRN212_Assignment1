@@ -188,11 +188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\NguyênChiDuyWPF\\NguyênChiDuyWPF.csproj",
+      "projectUniqueName": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\NguyênChiDuyWPF\\NguyênChiDuyWPF.csproj",
       "projectName": "NguyênChiDuyWPF",
-      "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\NguyênChiDuyWPF\\NguyênChiDuyWPF.csproj",
+      "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\NguyênChiDuyWPF\\NguyênChiDuyWPF.csproj",
       "packagesPath": "C:\\Users\\VicTus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\NguyênChiDuyWPF\\obj\\",
+      "outputPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\NguyênChiDuyWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -213,11 +213,11 @@
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\DataAccessObjects\\DataAccessObjects.csproj": {
-              "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\DataAccessObjects\\DataAccessObjects.csproj"
+            "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\DataAccessObjects\\DataAccessObjects.csproj": {
+              "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\DataAccessObjects\\DataAccessObjects.csproj"
             },
-            "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Services\\Services.csproj"
+            "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\VicTus\\Desktop\\ASM1_PRN212\\PRN212_Assignment1\\NguyênChiDuy_SE1852_A01\\Services\\Services.csproj"
             }
           }
         }

@@ -23,7 +23,7 @@ namespace NguyênChiDuyWPF.ViewModels
         public ReportViewModel()
         {
             GenerateReportCommand = new RelayCommand(GenerateReport);
-            // Tải báo cáo ban đầu khi ViewModel được khởi tạo
+           
             GenerateReport();
         }
 

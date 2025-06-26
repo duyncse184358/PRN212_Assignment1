@@ -59,48 +59,47 @@ namespace NguyênChiDuyWPF.ViewModels
                 MessageBox.Show("Please select a product and enter a valid quantity (> 0).", "Invalid Input", MessageBoxButton.OK, MessageBoxImage.Warning);
                 return;
             }
-            if (Discount < 0 || Discount > 1) // Kiểm tra Discount hợp lệ
+            if (Discount < 0 || Discount > 1) 
             {
                 MessageBox.Show("Discount must be between 0 and 1.", "Invalid Input", MessageBoxButton.OK, MessageBoxImage.Warning);
                 return;
             }
 
-            // Kiểm tra số lượng tồn kho (bổ sung nếu cần)
+            
             if (SelectedProduct.UnitsInStock < Quantity)
             {
                 MessageBox.Show($"Not enough {SelectedProduct.ProductName} in stock. Available: {SelectedProduct.UnitsInStock}", "Out of Stock", MessageBoxButton.OK, MessageBoxImage.Warning);
                 return;
             }
 
-            var detail = new OrderDetailDisplayModel // Sử dụng OrderDetailDisplayModel
+            var detail = new OrderDetailDisplayModel 
             {
                 ProductID = SelectedProduct.ProductID,
                 ProductName = SelectedProduct.ProductName,
                 Quantity = Quantity,
                 UnitPrice = SelectedProduct.UnitPrice,
-                Discount = (decimal)Discount // Cast float sang decimal để lưu
+                Discount = (decimal)Discount 
             };
 
-            // Kiểm tra nếu sản phẩm đã có trong OrderDetails để tăng số lượng
+           
             var existingDetail = OrderDetails.FirstOrDefault(d => d.ProductID == detail.ProductID);
             if (existingDetail != null)
             {
                 existingDetail.Quantity += detail.Quantity;
-                // Cần thông báo PropertyChanged thủ công cho DataGrid nếu Quantity thay đổi trực tiếp trên item
-                // Ví dụ: làm mới item trong ObservableCollection hoặc dùng INotifyPropertyChanged trong OrderDetailDisplayModel
+              
             }
             else
             {
                 OrderDetails.Add(detail);
             }
 
-            OnPropertyChanged(nameof(TotalAmount)); // Cập nhật tổng tiền
+            OnPropertyChanged(nameof(TotalAmount));
 
-            // Reset các trường nhập liệu sau khi thêm
+            
             SelectedProduct = null;
             Quantity = 1;
             Discount = 0;
-            OnPropertyChanged(nameof(SelectedProduct)); // Thông báo cho UI nếu bạn reset SelectedProduct
+            OnPropertyChanged(nameof(SelectedProduct)); 
             OnPropertyChanged(nameof(Quantity));
             OnPropertyChanged(nameof(Discount));
         }
@@ -121,11 +120,11 @@ namespace NguyênChiDuyWPF.ViewModels
             var order = new Order
             {
                 CustomerID = SelectedCustomer.CustomerID,
-                EmployeeID = AppContext.CurrentRole == "Admin" ? 1 : 0, // Giả định ID nhân viên là 1 nếu là Admin. Cần cải thiện việc này.
+                EmployeeID = AppContext.CurrentRole == "Admin" ? 1 : 0, 
                 OrderDate = DateTime.Now
             };
 
-            _orderService.Add(order); // DAO sẽ tự tăng OrderID
+            _orderService.Add(order); 
 
             foreach (var item in OrderDetails)
             {
@@ -135,11 +134,11 @@ namespace NguyênChiDuyWPF.ViewModels
                     ProductID = item.ProductID,
                     Quantity = item.Quantity,
                     UnitPrice = item.UnitPrice,
-                    Discount = (float)item.Discount // Đảm bảo Discount trong OrderDetail là decimal hoặc cast hợp lý
+                    Discount = (float)item.Discount 
                 };
                 _detailService.Add(detail);
 
-                // Cập nhật số lượng tồn kho (nếu có yêu cầu)
+              
                 var productInStock = _productService.GetById(item.ProductID);
                 if (productInStock != null)
                 {
@@ -150,7 +149,7 @@ namespace NguyênChiDuyWPF.ViewModels
 
             MessageBox.Show($"Order #{order.OrderID} saved successfully.", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
 
-            // Clear order form after saving
+            
             SelectedCustomer = Customers.FirstOrDefault();
             OrderDetails.Clear();
             OnPropertyChanged(nameof(SelectedCustomer));

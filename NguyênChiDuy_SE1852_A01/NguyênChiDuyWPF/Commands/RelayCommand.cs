@@ -5,8 +5,8 @@ namespace NguyênChiDuyWPF.Commands
 {
     public class RelayCommand : ICommand
     {
-        private readonly Action<object?> _execute; // Sử dụng Action<object?> để linh hoạt hơn
-        private readonly Func<object?, bool>? _canExecute; // Sử dụng Func<object?, bool>
+        private readonly Action<object?> _execute;
+        private readonly Func<object?, bool>? _canExecute; 
 
         public RelayCommand(Action execute, Func<bool>? canExecute = null)
             : this(p => execute(), p => canExecute?.Invoke() ?? true) { }
@@ -27,7 +27,7 @@ namespace NguyênChiDuyWPF.Commands
 
         public void Execute(object? parameter) => _execute(parameter);
 
-        // Phương thức này có thể được gọi từ ViewModel để buộc cập nhật trạng thái CanExecute
+        
         public void RaiseCanExecuteChanged()
         {
             CommandManager.InvalidateRequerySuggested();

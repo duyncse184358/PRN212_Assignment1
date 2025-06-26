@@ -9,7 +9,7 @@ namespace DataAccessObjects.DAO
     {
         private static List<Employee> employeeList = new();
 
-        // Static constructor để tạo dữ liệu mẫu
+        
         static EmployeeDAO()
         {
             employeeList.Add(new Employee { EmployeeID = 1, Name = "Admin User", UserName = "admin", Password = "admin123", JobTitle = "Admin" });

@@ -53,7 +53,7 @@ namespace NguyênChiDuyWPF.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/NguyênChiDuyWPF;component/views/categorywindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/NguyênChiDuyWPF;V1.0.0.0;component/views/categorywindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\CategoryWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

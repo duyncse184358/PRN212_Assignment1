@@ -1,7 +1,7 @@
 ﻿using BusinessObjects.Models;
 using System.Collections.Generic;
 using System.Linq;
-using System; // For StringComparison
+using System; 
 
 namespace DataAccessObjects.DAO
 {
@@ -9,7 +9,7 @@ namespace DataAccessObjects.DAO
     {
         private static List<Customer> customerList = new();
 
-        // Static constructor để tạo dữ liệu mẫu
+      
         static CustomerDAO()
         {
             customerList.Add(new Customer
