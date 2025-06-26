@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "56wPX5OoEWU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VicTus\\Documents\\ki 5\\PRN212\\ASM_true\\NguyênChiDuy_SE1852_A01 - Copy\\Repositories\\Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VicTus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\VicTus\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.301\\microsoft.net.sdk.compilers.toolset.9.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}

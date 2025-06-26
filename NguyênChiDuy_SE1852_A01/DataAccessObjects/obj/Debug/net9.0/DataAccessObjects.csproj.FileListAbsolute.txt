@@ -1,0 +1,45 @@
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.deps.json
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\DataAcce.79975846.Up2Date
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\refint\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\DataAccessObjects\obj\Debug\net9.0\ref\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.deps.json
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAcce.79975846.Up2Date
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\refint\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\ref\DataAccessObjects.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.deps.json
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAcce.79975846.Up2Date
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\refint\DataAccessObjects.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\DataAccessObjects\obj\Debug\net9.0\ref\DataAccessObjects.dll

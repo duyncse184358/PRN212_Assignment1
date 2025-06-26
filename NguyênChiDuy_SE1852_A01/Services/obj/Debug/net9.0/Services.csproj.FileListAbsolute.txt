@@ -1,0 +1,57 @@
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\bin\Debug\net9.0\Services.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\bin\Debug\net9.0\BusinessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\bin\Debug\net9.0\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\bin\Debug\net9.0\BusinessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\bin\Debug\net9.0\DataAccessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\Services.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Services.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\BusinessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\BusinessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\DataAccessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Services.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\BusinessObjects.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\DataAccessObjects.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\BusinessObjects.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\bin\Debug\net9.0\DataAccessObjects.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\Services\obj\Debug\net9.0\ref\Services.dll

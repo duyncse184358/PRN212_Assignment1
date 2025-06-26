@@ -1,0 +1,165 @@
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF_MarkupCompile.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF_MarkupCompile.lref
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.exe
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.deps.json
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.runtimeconfig.json
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.csproj.AssemblyReference.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.g.resources
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.AssemblyInfoInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.AssemblyInfo.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.csproj.CoreCompileInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Nguy_nCh.787D99DB.Up2Date
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\refint\NguyênChiDuyWPF.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.genruntimeconfig.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\ref\NguyênChiDuyWPF.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\BusinessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Repositories.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Services.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\BusinessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\DataAccessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Services.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Repositories.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\LoginWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CategoryView.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CustomerView.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\EmployeeView.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\OrderView.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\Popups\CategoryDetailWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\Popups\CustomerDetailWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\Popups\EmployeeDetailWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\Popups\OrderDetailWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\Popups\OrderItemEditWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\Popups\ProductDetailWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ReportView.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProductView.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.exe
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.deps.json
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.runtimeconfig.json
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\BusinessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\DataAccessObjects.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Repositories.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Services.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\DataAccessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Services.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\BusinessObjects.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Repositories.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.csproj.AssemblyReference.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CategoryDialog.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CategoryWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CustomerDialog.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CustomerWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\EmployeeDialog.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\EmployeeWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\LoginWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\OrderHistoryWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\OrderWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProductDialog.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProductWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProfileWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ReportWindow.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF_MarkupCompile.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF_MarkupCompile.lref
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CategoryDialog.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CategoryWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CustomerDialog.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CustomerWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\EmployeeDialog.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\EmployeeWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\LoginWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\MainWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\OrderHistoryWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\OrderWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProductDialog.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProductWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProfileWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ReportWindow.baml
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.g.resources
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.AssemblyInfoInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.AssemblyInfo.cs
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.csproj.CoreCompileInputs.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Nguy_nCh.787D99DB.Up2Date
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\refint\NguyênChiDuyWPF.dll
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.pdb
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.genruntimeconfig.cache
+C:\Users\VicTus\source\repos\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\ref\NguyênChiDuyWPF.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.exe
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.deps.json
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.runtimeconfig.json
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\NguyênChiDuyWPF.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\BusinessObjects.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\DataAccessObjects.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Repositories.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Services.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\DataAccessObjects.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Services.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\BusinessObjects.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\bin\Debug\net9.0-windows\Repositories.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.csproj.AssemblyReference.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CategoryDialog.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CategoryWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CustomerDialog.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CustomerWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\EmployeeDialog.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\EmployeeWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\LoginWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\MainWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\OrderHistoryWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\OrderWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProductDialog.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProductWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProfileWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ReportWindow.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF_MarkupCompile.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF_MarkupCompile.lref
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CategoryDialog.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CategoryWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CustomerDialog.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\CustomerWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\EmployeeDialog.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\EmployeeWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\LoginWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\MainWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\OrderHistoryWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\OrderWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProductDialog.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProductWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ProfileWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Views\ReportWindow.baml
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.g.resources
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.AssemblyInfoInputs.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.AssemblyInfo.cs
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.csproj.CoreCompileInputs.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\Nguy_nCh.787D99DB.Up2Date
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\refint\NguyênChiDuyWPF.dll
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.pdb
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\NguyênChiDuyWPF.genruntimeconfig.cache
+C:\Users\VicTus\Documents\ki 5\PRN212\ASM_true\NguyênChiDuy_SE1852_A01 - Copy\NguyênChiDuyWPF\obj\Debug\net9.0-windows\ref\NguyênChiDuyWPF.dll
